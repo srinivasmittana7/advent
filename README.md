@@ -1,2 +1,2 @@
 # advent
-arrival of notable person
+taking care of that notable person
